@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+
+
+Body {
+
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    width: 960px;
+    font-size: 18px;
+    margin-left: 200px;
+}
+
+#header {
+    background: #ebebeb;
+    margin-bottom: 10px;
+    padding: 40px;
+}
+
+#nav {
+    background: #ebebeb;
+    margin-bottom: 20px;
+    padding: 40px;
+}
+
+#section {
+    background: #ebebeb; 
+}
+
+#aside {
+    background: #ebebeb;
+}
+
+#article {
+    background: #ebebeb;
+}
+
+#headers {
+    background: #ebebeb;
+}
+
+#p {
+    background: #ebebeb;
+}
+
+#footer {
+    background: #ebebeb;
+}
